@@ -1,0 +1,4 @@
+﻿  Lab01-Group19 (2.6).cpp
+D:\UIT\HOC KY 5\AN TOAN MANG\THUC HANH\Lab01-Group19\Lab01-Group19 (2.6)\Lab01-Group19 (2.6).cpp(75,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UIT\HOC KY 5\AN TOAN MANG\THUC HANH\Lab01-Group19\Lab01-Group19 (2.6)\Lab01-Group19 (2.6).cpp(138,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab01-Group19 (2.6).vcxproj -> D:\UIT\HOC KY 5\AN TOAN MANG\THUC HANH\Lab01-Group19\x64\Debug\Lab01-Group19 (2.6).exe
